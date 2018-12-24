@@ -1,0 +1,5 @@
+Provincia;Capital;NroParroquias
+Loja;Loja;113
+Azuay;Cuenca;220
+Pichincha;Quito;340
+Guayas;Guayaquil;425

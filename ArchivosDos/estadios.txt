@@ -1,0 +1,5 @@
+Nombre;Tipo;Capacidad
+Monumenal;Fútbol;70000
+Capwell;Fútbol;40000
+Casa Blanca;Fútbol;30000
+Santiago Fernández;Básquet;2000
